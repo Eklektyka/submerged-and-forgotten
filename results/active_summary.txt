@@ -1,0 +1,20 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+
+========================================================
+ACTIVE CASES — VEHICLE MISSING SUMMARY
+========================================================
+Total cases classified          : 1000
+
+  Decade      Cases  Veh Missing       %
+  ---------- ------  -----------  ------
+  1980s         200           21   10.5%
+  1990s         200           18    9.0%
+  2000s         200           15    7.5%
+  2010s         200           23   11.5%
+  2020s         200           17    8.5%
+
+vehicle_missing = True          : 94  (9.4%)
+vehicle_missing = False         : 779  (77.9%)
+vehicle_missing = null          : 127
+========================================================

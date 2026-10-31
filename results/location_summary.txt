@@ -1,0 +1,62 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+
+================================================================
+CRASH LOCATION ANALYSIS  (n=190 own-vehicle cases)
+================================================================
+
+Total own-vehicle cases         : 190
+Vehicle found crashed           : 132  (69.5%)
+
+LOCATION TYPE — all 190 cases
+  Water (river / lake / pond / canal…)        :  133  (70.0%)
+  Land off-road (ravine / cliff / woods…)     :   30  (15.8%)
+  Roadside / parking / on road                :    6  (3.2%)
+  Unknown / not determinable                  :   21  (11.1%)
+
+LOCATION TYPE — crashed only (n=132)
+  Water (river / lake / pond / canal…)        :  117  (88.6%)
+  Land off-road (ravine / cliff / woods…)     :   10  (7.6%)
+  Roadside / parking / on road                :    0  (0.0%)
+  Unknown / not determinable                  :    5  (3.8%)
+
+AVERAGE DAYS TO DISCOVERY by location type
+  Water (river / lake / pond / canal…)
+    n=126  mean=4457d  median=2424d  min=2d  max=21144d
+  Land off-road (ravine / cliff / woods…)
+    n=26  mean=842d  median=815d  min=3d  max=3604d
+  Roadside / parking / on road
+    n=6  mean=597d  median=461d  min=198d  max=1132d
+
+TOP 10 LONGEST-UNDISCOVERED CASES
+  Name                                  Days  Type            State
+  ----------------------------------- ------  --------------  --------------------
+    keyword match: 'river'
+    keyword match: 'lake'
+    keyword match: 'canal'
+    keyword match: 'pond'
+    keyword match: 'pond'
+    keyword match: 'creek'
+    keyword match: 'creek'
+    keyword match: 'river'
+    keyword match: 'creek'
+    keyword match: 'creek'
+
+TOP STATES (all 190 cases)
+  California                    : 25
+  Florida                       : 21
+  Texas                         : 11
+  Oklahoma                      : 8
+  North Carolina                : 7
+  Oregon                        : 7
+  Ohio                          : 7
+  Arkansas                      : 6
+  Georgia                       : 6
+  Mississippi                   : 5
+  Idaho                         : 5
+  Tennessee                     : 5
+  Washington                    : 5
+  New York                      : 4
+  Louisiana                     : 4
+
+================================================================

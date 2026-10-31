@@ -1,0 +1,52 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+
+================================================================
+HYPOTHESIS: P(crashed | own vehicle missing)
+================================================================
+
+Input: 249 vehicle-associated resolved cases
+
+  Own vehicle (person's own car/truck/etc.)  :  190  (76.3%)
+  Not own (abductor's / third-party vehicle) :   48  (19.3%)
+  Unclear / null                             :   11  (4.4%)
+
+----------------------------------------------------------------
+RESULT — own vehicle cases only:
+----------------------------------------------------------------
+  Own vehicle cases                          : 190
+
+  High-confidence own-vehicle cases          : 189
+
+CONCLUSION
+  P(vehicle found crashed | own vehicle went missing) = 69.5%
+
+NOT-OWN-VEHICLE cases — what happened to them:
+  Found crashed                              : 19
+  Not crashed (homicide, abandoned, etc.)    : 29
+
+OWN VEHICLE — full case list
+  Name                                Crashed  Evidence
+  ----------------------------------- -------  ----------------------------------------
+  Philippe Desir                      CRASHED  The car was Desir's silver two-door 2002 Ford Mustang...with skeletal 
+  Gail Haddock-Dail                   CRASHED  Haddock-Dail and her disabled granddaughter disappeared while driving 
+  La’Ron Harris                       CRASHED  Harris disappeared from Akron, Ohio on February 21, 2016, after crashi
+  Juanita Jacques                     CRASHED  Nelta's van was found submerged in eighteen feet of water in a canal o
+  Adrian Lozoya                       CRASHED  Police found Lozoya's vehicle in a canal off Highway 73 with his skele
+  Barbara Martin                      CRASHED  The family 'set off that day in their cream and red nine-passenger 195
+  Cynthia Molina                      CRASHED  Her remains were found in the front seat of her burned-out car in the 
+  Fremont Carl O’Berg Jr.             CRASHED  O'Berg's car was pulled out of Hillsdale Lake with his body inside, in
+  Marcy Randolph                      CRASHED  They took off in Westover's small plane and never returned.
+  Mohamed Rihani                      CRASHED  In November 2008, his car was found submerged in eight to ten feet of 
+  Shelia Scott                        CRASHED  Scott's body was found inside her vehicle in a retention pond in the 5
+  Connie Seaton                       CRASHED  Her body was found inside her car, which was submerged in Grand Lake.
+  Johanna St. Louis                   CRASHED  Nelta's van was submerged in eighteen feet of water in a canal off All
+  Hector Valencia                     CRASHED  Valencia's car was pulled from a reservoir with his body inside the ve
+  Carol Wood                          CRASHED  her body was found inside her Toyota Corolla, which was pulled out of 
+  Kathleen Wrinkle                    CRASHED  She evidently had a car accident on the day of her disappearance and d
+  Robert Bresson                           no  Bresson and his former girlfriend began riding motorcycles across the 
+  Lucky Hawkins                            no  His truck was marked as abandoned and towed on August 28, five days af
+  Juan Herrera                             no  His truck had been located abandoned in Pecos County, Texas near where
+  Ran Mesika                               no  Mesika picked up Vernier, a prison escapee who was hitchhiking, indica
+  Barbara Thomas                           no  She was hiking with her husband and 'never arrived back at their vehic
+================================================================

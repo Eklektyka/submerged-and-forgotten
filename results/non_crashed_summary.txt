@@ -1,0 +1,28 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+====================================================================
+VEHICLE-ASSOCIATED CASES WHERE VEHICLE WAS NOT FOUND CRASHED
+====================================================================
+
+Total: 92
+
+  Homicide — vehicle used or linked to crime
+  Count: 69  (75.0%)
+
+
+  Suicide / likely self-harm — vehicle parked at scene
+  Count: 5  (5.4%)
+
+
+  Vehicle abandoned — found parked or left at scene
+  Count: 11  (12.0%)
+
+
+  Remains / person found away from vehicle (vehicle intact)
+  Count: 3  (3.3%)
+
+
+  Other / unclear
+  Count: 4  (4.3%)
+
+

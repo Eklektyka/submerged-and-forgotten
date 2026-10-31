@@ -1,0 +1,89 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+
+================================================================
+DISCOVERY ORDER ANALYSIS  (n=190 own-vehicle resolved cases)
+================================================================
+
+PERSON FOUND?
+  Yes      :  188  (98.9%)
+  No       :    0  (0.0%)
+  Unknown  :    2
+
+VEHICLE FOUND?
+  Yes      :  168  (88.4%)
+  No       :    6  (3.2%)
+  Unknown  :   16
+
+WHAT WAS FOUND FIRST?
+  Body inside car when car found        :  109  (57.4%)
+  Vehicle found first, person after     :   58  (30.5%)
+  Person found first, vehicle after     :    1  (0.5%)
+  Person found, vehicle never found     :   21  (11.1%)
+  Vehicle found, person never found     :    1  (0.5%)
+
+----------------------------------------------------------------
+CROSS-TAB: discovery order × vehicle crashed
+----------------------------------------------------------------
+  Category                               Total  Crashed  Not crashed
+  -------------------------------------- -----  -------  -----------
+  Body inside car when car found           109      103            6
+  Vehicle found first, person after         58       21           37
+  Person found first, vehicle after          1        0            1
+  Person found, vehicle never found         21        8           13
+  Vehicle found, person never found          1        0            1
+
+PERSON FOUND, VEHICLE NEVER FOUND (21 cases)
+    Bledsoe's remains were found in April 1992 and identified in 2018, but the narrative makes no mention of whether his vehicle was ever found.
+    Bond's skeletal remains were found in January 2010 on the Chandeleur Islands; the narrative does not mention whether the boat was ever recovered.
+    Bresson's remains were found buried near Flagstaff, Arizona in October 1995, but the narrative contains no mention of whether his motorcycle was ever located.
+    Bridges's skeletal remains were found in August 2006 in a ravine in Wilkes County, but her vehicle has not been located.
+    Chirukandoth's jawbone was found in June 2010 on an island in the McKenzie River, approximately 6.5 years after his kayak overturned; his kayak (the vehicle) was never recovered.
+    Cole's partial remains were found near Whale Park in Juneau in January 2020 and identified in December 2021, but the narrative makes no mention of the skiff ever being found.
+    Bone fragments identified as Donovan's remains were found in January 2009; no information provided about the vehicle's recovery.
+    Gabbard's remains were found by a hunter in May 2004 in a remote wooded area; the narrative does not mention whether his motorcycle was ever located.
+    Philip and Sarah's remains were found in Hudson, Ohio in December 2005; the narrative does not mention whether the vehicle was ever located.
+    Philip and Sarah's remains were found in Hudson, Ohio in December 2005; the narrative makes no mention of whether the vehicle was ever found.
+    Harris's remains were recovered from the Cuyahoga River in October 2017, but the narrative does not mention whether the vehicle was ever located.
+    One of Heath's tibia bones was found on a sand bar in the Snake River in 2009 and identified as his in 2024; the boat (vehicle) sank in 1986 but was never found.
+    Johansen's skeletal remains were found in September 2021 and identified as his; no mention of the vehicle being found in the narrative.
+    Partial skeletal remains were found in September 2010 and identified in March 2011; no mention of whether the vehicle was ever located.
+    Partial skeletal remains including skull were discovered by a surveying crew in 1986 along Ortega Highway and identified as Linda in 2022; no mention of vehicle being recovered.
+    Mesika's skeletal remains were found in Bayou Chene, Louisiana after Vernier told investigators where to find the body; no mention of the vehicle being found.
+    Morgan's skeletal remains were recovered by a fishing vessel in August 2010, identified through clothing, personal items, and DNA testing, but the boat (vehicle) was never mentioned as being found.
+    Evans led police to Phillips's remains on March 30, 2005, but the narrative does not mention whether her vehicle was ever located.
+    Pineda's skull was found by a fisherman in March 2011 and identified in December; no mention is made of the vehicle ever being located.
+    Thomas's body was found in November 2020 in the desert near Essex, California; the narrative does not mention whether her vehicle was ever located.
+
+VEHICLE FOUND FIRST, PERSON FOUND SEPARATELY (58 cases)
+    Anderson's remains were found in October 2023 in a wooded area near where her car had been located, indicating the vehicle was found first and the remains discovered in proximity to it.
+    Asplund's vehicle was discovered abandoned at the Interstate 74 Bridge in Bettendorf, Iowa a few days after his January 9, 1994 disappearance; his body was subsequently found in the Mississippi River in April 1994 and identified in September 2022.
+    Baron's vehicle was found on Howard Street a few days after his disappearance; human skeletal remains identified as Baron were located later in March 2023 following a suspect's arrest.
+    Berry's truck was found wrecked and abandoned first, followed by discovery of his skeletal remains in November 2019 approximately half a mile away from the vehicle.
+    Vehicle bumper discovered in October 2025, full vehicle recovered in February 2026, and human remains identified as consistent with Combs found inside the vehicle.
+    Combs's truck was discovered on May 25, 2017, approximately 1.5 years after his disappearance; his remains (skull and bones) were subsequently found in May 2023, about 6 years later and 2 miles from the truck location.
+    Cox's skeletal remains were found in March 2009 about a mile from where his car had been found abandoned previously, indicating the vehicle was discovered first.
+    Vehicle was found abandoned on September 6, 2017, with no sign of the person; skeletal remains were found later in October 2020 in a separate location.
+    Vehicle was discovered in November 2008 in a wooded area, followed by a search that located skeletal remains approximately 200 yards away from the car.
+    Vehicle and trailer found on July 3, 2015 (day after disappearance); remains found in May 2018, nearly 3 years later, approximately 1 mile from the vehicle location.
+    Vehicle pieces were found on the embankment of U.S. 95 at Fiddle Creek, and French's remains were not discovered until January 2020, nearly 2.5 years later.
+    Vehicle was discovered several hours after disappearance in 2002; skeletal remains were found in 2009 near the vehicle site and identified as Girard through DNA in 2018.
+    Bike and trailer were found abandoned on April 6, 2017, while skeletal remains were discovered in August 2018 in the wilderness area.
+    Vehicle was found abandoned three days after disappearance (July 26, 1999); bones were discovered in 2007 in woods near where the car was found, and formally identified as Gustafson in July 2009.
+    Hawkins' truck was marked abandoned and towed on August 28, 2021, while his skeletal remains were not discovered until November 2025 in a wooded area about a mile from where the truck was found.
+    Herrera's remains were found in January 2006 in Pecos County, Texas, after his truck had been located abandoned in the same area.
+    James's vehicle was found abandoned in Morehead, Kentucky three weeks after his disappearance in August 2004; his remains (skull and bones) were discovered in August 2014, approximately 10 years later, near where the car had been found.
+    Lawson's vehicle was abandoned first (August 2013 when it ran out of gas), and his remains were found in February 2022 near where the vehicle had been left.
+    Tire tracks and evidence of the vehicle in the Columbia River were discovered in February 1959, followed by Susan and Virginia's bodies found downstream in May 1959, with the main vehicle wreckage and three additional remains (Barbara, Barbie, and Kenneth) recovered in February 2025 and identified in April 2026.
+    Tire tracks and evidence of the vehicle going over a cliff were discovered in February 1959; Susan and Virginia's bodies were found downstream in May 1959; the vehicle itself was recovered in February 2025 with three additional remains identified in April 2026.
+    Pickup truck was found approximately two months after disappearance (around December 2005), and Neilson's body was found in July 2006, about two miles from the vehicle location.
+    Vehicle was discovered submerged in February 2021, followed by human remains found in the same location during an October 2021 dive.
+    Riley's car was found abandoned in a hotel parking lot a few days after her disappearance in April 1986; her remains were discovered in 1987 by a rancher who found a skull and shallow grave with wrapped bones, later identified in 2025.
+    Vehicle was located shortly after the October 2005 disappearance; human remains (skull and skeletal remains) were discovered in April 2011 in the Utah desert near where the vehicle had been found.
+    Steigerwald's car was found abandoned about a month after his disappearance in August 2002; his skull was discovered in 2006 in a stock tank about a mile north of where the car had been found.
+    Vehicle was found in August 2019, and remains were discovered in February 2020 within fifty yards of the car's location.
+    Thompson's car was recovered earlier (timing unspecified), and his skeletal remains were found in summer 2021 near the same location; remains were identified in May 2022.
+    Vehicle was found first in October 2019 in a culvert with human remains and torn clothing inside; DNA confirmed the remains were Wilks's in February 2020.
+    Witcraft's car was found nearly three weeks after his January 2005 disappearance, and his remains were discovered in April 2008 in a wooded area near where the car had been located.
+
+================================================================

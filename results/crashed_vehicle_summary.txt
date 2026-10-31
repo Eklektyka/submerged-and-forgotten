@@ -1,0 +1,74 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+================================================================
+CRASHED VEHICLE CASES — DETAILED ANALYSIS
+================================================================
+
+Total crashed-vehicle cases: 148
+
+----------------------------------------------------------------
+1. VEHICLE FOUND: WATER vs LAND
+----------------------------------------------------------------
+  Water     :  127  (85.8%)
+  Land      :   20  (13.5%)
+  Unknown   :    1  (0.7%)
+
+  Water cases:
+
+  Land cases:
+
+----------------------------------------------------------------
+2. TIME UNTIL VEHICLE/REMAINS DISCOVERED
+----------------------------------------------------------------
+  days–weeks                  :   13  (8.8%)
+  months                      :    1  (0.7%)
+  same year (estimated)       :    1  (0.7%)
+  ~1 year                     :   22  (14.9%)
+  1–2 years                   :   10  (6.8%)
+  3–5 years                   :   22  (14.9%)
+  6–10 years                  :   19  (12.8%)
+  10+ years                   :   60  (40.5%)
+
+----------------------------------------------------------------
+3. BY STATE / REGION
+----------------------------------------------------------------
+  Florida                       :   24  (16.2%)
+  California                    :   11  (7.4%)
+  Oklahoma                      :    9  (6.1%)
+  Ohio                          :    8  (5.4%)
+  Tennessee                     :    6  (4.1%)
+  North Carolina                :    6  (4.1%)
+  Texas                         :    6  (4.1%)
+  Oregon                        :    5  (3.4%)
+  Idaho                         :    5  (3.4%)
+  New York                      :    4  (2.7%)
+  Louisiana                     :    4  (2.7%)
+  Illinois                      :    4  (2.7%)
+  Georgia                       :    4  (2.7%)
+  New Jersey                    :    4  (2.7%)
+  Arkansas                      :    3  (2.0%)
+  Iowa                          :    3  (2.0%)
+  South Carolina                :    3  (2.0%)
+  Arizona                       :    3  (2.0%)
+  Virginia                      :    3  (2.0%)
+  Indiana                       :    3  (2.0%)
+  Alabama                       :    3  (2.0%)
+  New Mexico                    :    3  (2.0%)
+  Pennsylvania                  :    2  (1.4%)
+  Minnesota                     :    2  (1.4%)
+  Montana                       :    2  (1.4%)
+  Kentucky                      :    2  (1.4%)
+  South Dakota                  :    2  (1.4%)
+  Mississippi                   :    2  (1.4%)
+  Missouri                      :    2  (1.4%)
+  Kansas                        :    2  (1.4%)
+  Utah                          :    1  (0.7%)
+  Connecticut                   :    1  (0.7%)
+  Massachusetts                 :    1  (0.7%)
+  North Dakota                  :    1  (0.7%)
+  Nevada                        :    1  (0.7%)
+  Wisconsin                     :    1  (0.7%)
+  Colorado                      :    1  (0.7%)
+  Michigan                      :    1  (0.7%)
+
+================================================================

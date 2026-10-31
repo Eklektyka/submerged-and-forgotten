@@ -1,0 +1,17 @@
+[Individual case names and narratives removed. Aggregate statistics preserved.]
+
+================================================================
+VEHICLE ASSOCIATION & CRASH CLASSIFICATION SUMMARY
+================================================================
+
+Total cases analysed                         : 1995
+
+Vehicle associated with disappearance
+  Yes                                        :   249  (12.5%)
+  No                                         :  1746  (87.5%)
+
+Of those with a vehicle associated:
+  Vehicle later found crashed                :   157  (63.1% of vehicle cases)
+  (7.9% of all 1995 cases)
+
+================================================================
